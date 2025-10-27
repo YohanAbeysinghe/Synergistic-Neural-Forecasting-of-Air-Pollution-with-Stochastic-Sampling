@@ -1,7 +1,7 @@
 # Synergistic-Neural-Forecasting-of-Air-Pollution-with-Stochastic-Sampling
 
 
-# REFace
+# SynCast
 
 This repository gives the official implementation of Synergistic Neural Forecasting of Air Pollution
 with Stochastic Sampling
